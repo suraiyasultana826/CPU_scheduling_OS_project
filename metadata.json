@@ -1,0 +1,6 @@
+{
+  "name": "CPU Process Scheduling Calculator",
+  "description": "A modern, highly responsive visual calculator for CPU scheduling algorithms, including FCFS, SJF, Priority, and Round Robin. See interactive Gantt charts, metrics, and comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
